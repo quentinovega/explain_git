@@ -3,3 +3,4 @@ const hello = (who) => {
 };
 
 hello("world");
+hello("quentin");
