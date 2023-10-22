@@ -4,3 +4,5 @@ const hello = (who) => {
 
 hello("world");
 hello("quentin");
+
+const who = 5;
